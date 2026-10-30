@@ -15,7 +15,7 @@
 | :--- | :--- | :--- | :--- |
 | **ایلیا آزادپور (نماینده)** | طراحی و سرپرستی | فرمول‌بندی مسئله، PEAS، ویژگی‌های محیط و ارسال گزارش جامع | [ai-lab-g3-step1-iliya](https://github.com/iliya-azadpour-256/ai-lab-g3-step1-iliya) |
 | **سپهر صابری** | کدنویسی و پیاده‌سازی | پیاده‌سازی شبکه دوبعدی، عملگرها و موانع شهری | [ai-lab-g3-step1-sepehr](https://github.com/sepehrsaberi005/ai-lab-g3-step1-sepehr) |
-| **قاعدیان** | داده و ارزیابی | تست محیط، اجرای ۱۰۰ بار ارزیابی، آمار توصیفی و نمودارها | [ai-lab-g3-step1-ghaedian](https://github.com/ghaedian/ai-lab-g3-step1-ghaedian) |
+| **قاعدیان** | داده و ارزیابی | تست محیط، اجرای ۱۰۰ بار ارزیابی، آمار توصیفی و نمودارها | [ai-lab-g3-step1-ghaedian](https://github.com/alimghaedyan/ai-lab-g3-step2-ghaedian) |
 | **سینا محمد پورپورانی** | مستندسازی | مستندسازی جامع، تدوین risks.md و ساختاردهی مخازن | [ai-lab-g3-step1-sina](https://github.com/sinamp00/ai-lab-g3-step1-sina) |
 
 ---
